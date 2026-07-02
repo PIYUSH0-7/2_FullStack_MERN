@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Showcase MERN projects by emphasizing database indexing, performance optimizations, and user authentication flows.
+Your MERN portfolio should not just list applications, but vividly narrate the technical journey—the challenges overcome, performance gains achieved, and design decisions made—across both frontend and backend.
 
-*Daily Insight:* Focus on reducing algorithmic complexity and optimizing critical paths.
+*Daily Insight:* For each MERN project in your portfolio, include a "Technical Deep Dive" section detailing schema design, API architecture, and state management strategies.
 
 <!-- THOUGHT_END -->
 

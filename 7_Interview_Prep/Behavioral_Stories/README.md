@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Prepare stories about performance optimization, such as reducing database load times or bundle sizes.
+Craft MERN-specific behavioral stories that highlight your ability to troubleshoot complex issues, make architectural trade-offs, and collaborate effectively across the client-server divide.
 
-*Daily Insight:* Plan your weekly milestones, track progress velocity, and address blockers.
+*Daily Insight:* Document a specific instance where you identified and resolved a MERN performance bottleneck, explaining your diagnostic process and the impact of your solution.
 
 <!-- THOUGHT_END -->
 
