@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Contribute to MERN-related NPM packages or open-source web apps to understand large-scale codebase structure.
+Fixing bugs in popular JavaScript libraries improves your understanding of deep engine mechanics.
 
-*Daily Insight:* Plan your weekly milestones, track progress velocity, and address blockers.
+*Daily Insight:* Test thoroughly for edge cases, null values, and boundary conditions.
 
 <!-- THOUGHT_END -->
 

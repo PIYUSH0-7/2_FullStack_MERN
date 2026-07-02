@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Prepare for MERN interviews by explaining asynchronous JavaScript, database normalization, and React rendering cycles.
+Be ready to discuss the pros and cons of SQL vs. NoSQL databases based on application requirements.
 
-*Daily Insight:* Optimize memory usage, garbage collection overhead, and resource disposal.
+*Daily Insight:* Plan your weekly milestones, track progress velocity, and address blockers.
 
 <!-- THOUGHT_END -->
 

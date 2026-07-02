@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Write daily micro-features or API endpoints to keep your backend routing and frontend state logic sharp.
+Consistency in daily full-stack coding helps you master react hooks and express middlewares.
 
-*Daily Insight:* Refactor design patterns to improve scalability and maintainability.
+*Daily Insight:* Ensure clear, self-documenting code style with meaningful variable naming.
 
 <!-- THOUGHT_END -->
 

@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Document full-stack debugging stories highlighting how you isolated bugs across the client-server boundary.
+Prepare stories about performance optimization, such as reducing database load times or bundle sizes.
 
-*Daily Insight:* Focus on reducing algorithmic complexity and optimizing critical paths.
+*Daily Insight:* Plan your weekly milestones, track progress velocity, and address blockers.
 
 <!-- THOUGHT_END -->
 

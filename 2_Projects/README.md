@@ -4,7 +4,7 @@
 
 Real-world MERN projects must handle database validation, state consistency, and user authentication gracefully.
 
-*Daily Insight:* Ensure clear, self-documenting code style with meaningful variable naming.
+*Daily Insight:* Refactor design patterns to improve scalability and maintainability.
 
 <!-- THOUGHT_END -->
 

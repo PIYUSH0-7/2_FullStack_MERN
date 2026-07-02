@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Your portfolio should demonstrate your ability to take a full-stack project from concept to production deployment.
+Showcase MERN projects by emphasizing database indexing, performance optimizations, and user authentication flows.
 
-*Daily Insight:* Test thoroughly for edge cases, null values, and boundary conditions.
+*Daily Insight:* Focus on reducing algorithmic complexity and optimizing critical paths.
 
 <!-- THOUGHT_END -->
 
