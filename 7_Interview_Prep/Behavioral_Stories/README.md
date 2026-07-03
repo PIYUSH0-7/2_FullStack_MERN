@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Craft MERN-specific behavioral stories that highlight your ability to troubleshoot complex issues, make architectural trade-offs, and collaborate effectively across the client-server divide.
+Behavioral questions often focus on how you handle technical disagreements or manage technical debt in web apps.
 
-*Daily Insight:* Document a specific instance where you identified and resolved a MERN performance bottleneck, explaining your diagnostic process and the impact of your solution.
+*Daily Insight:* Plan your weekly milestones, track progress velocity, and address blockers.
 
 <!-- THOUGHT_END -->
 

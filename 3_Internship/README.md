@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-A MERN stack internship is an immersion into professional development workflows, where you learn to navigate complex codebases, contribute to shared APIs, and understand deployment intricacies in a team environment.
+Understand how professional teams structure their backend routes and manage complex database migrations.
 
-*Daily Insight:* Actively seek opportunities to contribute across the MERN stack during your internship, from database schema changes to React component development.
+*Daily Insight:* Optimize memory usage, garbage collection overhead, and resource disposal.
 
 <!-- THOUGHT_END -->
 

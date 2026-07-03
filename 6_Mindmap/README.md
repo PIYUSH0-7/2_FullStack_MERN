@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-A MERN stack mindmap helps you architect applications by visualizing the complex interplay of data persistence, API routing, server-side logic, and client-side rendering, ensuring a coherent system design.
+Visualize the data flow in MERN: from MongoDB queries, through Express routing, to React components and Node runtime.
 
-*Daily Insight:* Before coding, sketch a mindmap outlining your MERN application's primary data models and their associated API endpoints and React components.
+*Daily Insight:* Optimize memory usage, garbage collection overhead, and resource disposal.
 
 <!-- THOUGHT_END -->
 

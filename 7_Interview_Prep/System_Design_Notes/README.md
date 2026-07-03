@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Effective MERN system design notes document your thinking on scalability, security, and maintainability, emphasizing how each MERN component contributes to a robust and high-performing distributed application.
+Understand MERN system designs, focusing on connection pooling, load balancing, and session management.
 
-*Daily Insight:* For a given MERN feature, draw a system design diagram illustrating load balancing, caching layers, and database sharding considerations.
+*Daily Insight:* Plan your weekly milestones, track progress velocity, and address blockers.
 
 <!-- THOUGHT_END -->
 

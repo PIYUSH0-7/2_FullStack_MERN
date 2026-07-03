@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-MERN interview preparation demands fluency across the entire stack, requiring you to explain not just individual component functionality but also the critical decisions behind full-stack integration and performance.
+Be ready to discuss the pros and cons of SQL vs. NoSQL databases based on application requirements.
 
-*Daily Insight:* Practice explaining how a specific MERN feature, from a React button click to a MongoDB update, propagates across all four layers.
+*Daily Insight:* Optimize memory usage, garbage collection overhead, and resource disposal.
 
 <!-- THOUGHT_END -->
 

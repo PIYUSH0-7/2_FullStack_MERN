@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Mastering the MERN stack involves a holistic understanding of how each layer—MongoDB, Express, React, Node.js—interacts to form a cohesive, performant, and secure full-stack application.
+Keep client and server codebases cleanly decoupled to maintain scalability and make updates easier.
 
-*Daily Insight:* When starting a MERN project, define the API contract between frontend and backend before writing any implementation code.
+*Daily Insight:* Optimize memory usage, garbage collection overhead, and resource disposal.
 
 <!-- THOUGHT_END -->
 

@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Consistent daily coding in MERN reinforces the intricate connections between frontend state, backend logic, and database operations, transforming theoretical knowledge into intuitive full-stack fluency.
+Consistency in daily full-stack coding helps you master react hooks and express middlewares.
 
-*Daily Insight:* Dedicate 30 minutes daily to implementing a small, self-contained MERN feature, ensuring it spans all four layers (MongoDB to React).
+*Daily Insight:* Ensure clear, self-documenting code style with meaningful variable naming.
 
 <!-- THOUGHT_END -->
 

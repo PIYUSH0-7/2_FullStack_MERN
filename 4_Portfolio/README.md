@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Your MERN portfolio should not just list applications, but vividly narrate the technical journey—the challenges overcome, performance gains achieved, and design decisions made—across both frontend and backend.
+Your portfolio should demonstrate your ability to take a full-stack project from concept to production deployment.
 
-*Daily Insight:* For each MERN project in your portfolio, include a "Technical Deep Dive" section detailing schema design, API architecture, and state management strategies.
+*Daily Insight:* Refactor design patterns to improve scalability and maintainability.
 
 <!-- THOUGHT_END -->
 
