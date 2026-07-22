@@ -4,7 +4,7 @@
 
 Optimize MongoDB queries and index critical fields to prevent database bottlenecks.
 
-*Daily Insight:* Test thoroughly for edge cases, null values, and boundary conditions.
+*Daily Insight:* Focus on reducing algorithmic complexity and optimizing critical paths.
 
 <!-- THOUGHT_END -->
 
