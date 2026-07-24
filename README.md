@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-The MERN stack excels in rapid prototyping and single-language development, but requires careful attention to security and state management.
+Optimize MongoDB queries and index critical fields to prevent database bottlenecks.
 
-*Daily Insight:* Optimize memory usage, garbage collection overhead, and resource disposal.
+*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
 
 <!-- THOUGHT_END -->
 
