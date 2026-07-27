@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Keep client and server codebases cleanly decoupled to maintain scalability and make updates easier.
+Optimize MongoDB queries and index critical fields to prevent database bottlenecks.
 
-*Daily Insight:* Ensure clear, self-documenting code style with meaningful variable naming.
+*Daily Insight:* Refactor design patterns to improve scalability and maintainability.
 
 <!-- THOUGHT_END -->
 
