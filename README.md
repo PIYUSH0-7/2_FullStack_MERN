@@ -4,7 +4,7 @@
 
 Keep client and server codebases cleanly decoupled to maintain scalability and make updates easier.
 
-*Daily Insight:* Test thoroughly for edge cases, null values, and boundary conditions.
+*Daily Insight:* Ensure clear, self-documenting code style with meaningful variable naming.
 
 <!-- THOUGHT_END -->
 
