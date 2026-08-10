@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-The MERN stack excels in rapid prototyping and single-language development, but requires careful attention to security and state management.
+Keep client and server codebases cleanly decoupled to maintain scalability and make updates easier.
 
-*Daily Insight:* Optimize memory usage, garbage collection overhead, and resource disposal.
+*Daily Insight:* Focus on reducing algorithmic complexity and optimizing critical paths.
 
 <!-- THOUGHT_END -->
 
