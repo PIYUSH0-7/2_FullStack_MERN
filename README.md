@@ -4,7 +4,7 @@
 
 Keep client and server codebases cleanly decoupled to maintain scalability and make updates easier.
 
-*Daily Insight:* Focus on reducing algorithmic complexity and optimizing critical paths.
+*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
 
 <!-- THOUGHT_END -->
 
