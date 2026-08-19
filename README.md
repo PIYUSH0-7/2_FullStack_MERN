@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Keep client and server codebases cleanly decoupled to maintain scalability and make updates easier.
+Optimize MongoDB queries and index critical fields to prevent database bottlenecks.
 
-*Daily Insight:* Test thoroughly for edge cases, null values, and boundary conditions.
+*Daily Insight:* Plan your weekly milestones, track progress velocity, and address blockers.
 
 <!-- THOUGHT_END -->
 
