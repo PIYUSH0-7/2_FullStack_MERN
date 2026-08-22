@@ -4,7 +4,7 @@
 
 Optimize MongoDB queries and index critical fields to prevent database bottlenecks.
 
-*Daily Insight:* Ensure clear, self-documenting code style with meaningful variable naming.
+*Daily Insight:* Plan your weekly milestones, track progress velocity, and address blockers.
 
 <!-- THOUGHT_END -->
 
